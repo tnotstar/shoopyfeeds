@@ -2,7 +2,7 @@
   "name": "ShoopyFeeds",
   "version": "0.1.0",
   "description": "A minimalist merchant feed server for OCAPI people",
-  "copyright": "Copyright 2021, Antonio Alvarado Hernández"
+  "copyright": "Copyright 2021, Antonio Alvarado Hernández",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/tnotstar/shoopyfeeds/issues"
   },
-  "homepage": "https://github.com/tnotstar/shoopyfeeds#readme"
+  "homepage": "https://github.com/tnotstar/shoopyfeeds#readme",
+  "dependencies": {
+    "dotenv-flow": "^3.2.0",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "xmlbuilder2": "^2.4.1"
+  }
 }
