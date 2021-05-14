@@ -1,0 +1,20 @@
+{
+  "name": "ShoopyFeeds",
+  "version": "0.1.0",
+  "description": "A minimalist merchant feed server for OCAPI people",
+  "copyright": "Copyright 2021, Antonio Alvarado Hernández"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://tnotstar@github.com/tnotstar/shoopyfeeds.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tnotstar/shoopyfeeds/issues"
+  },
+  "homepage": "https://github.com/tnotstar/shoopyfeeds#readme"
+}
