@@ -4,7 +4,7 @@
   "description": "A minimalist merchant feed server for OCAPI people",
   "copyright": "Copyright 2021, Antonio Alvarado Hernández",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node scripts/start.js"
   },
   "repository": {
     "type": "git",
