@@ -1,5 +1,5 @@
 <!-- Copyright 2021, Antonio Alvarado Hernández -->
 
-# Project shoopyfeeds
+# Project ShoopyFeeds
 
-A minimalist merchant feed server for OCAPI people.
+A minimalist merchant feeds server for OCAPI people.
