@@ -1,5 +1,5 @@
 {
-  "name": "ShoopyFeeds",
+  "name": "shoopyfeeds",
   "version": "0.1.0",
   "description": "A minimalist merchant feed server for OCAPI people",
   "copyright": "Copyright 2021, Antonio Alvarado Hernández",
