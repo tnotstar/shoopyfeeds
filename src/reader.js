@@ -1,4 +1,4 @@
-// Copyright 2021, Antonio Alvarado Hernández
+// Copyright (c) 2021-2022, Antonio Alvarado Hernández
 
 const fetch = require('node-fetch')
 const CHUNK_SIZE = 20

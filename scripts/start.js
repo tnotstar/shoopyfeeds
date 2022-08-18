@@ -1,4 +1,4 @@
-// Copyright 2021, Antonio Alvarado Hernández
+// Copyright (c) 2021-2022, Antonio Alvarado Hernández
 
 require('dotenv-flow').config()
 

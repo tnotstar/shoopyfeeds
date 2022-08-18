@@ -1,4 +1,4 @@
-// Copyright 2021, Antonio Alvarado Hernández
+// Copyright (c) 2021-2022, Antonio Alvarado Hernández
 
 const { createCB } = require('xmlbuilder2')
 const { readProducts } = require('./reader.js')

@@ -2,7 +2,7 @@
   "name": "shoopyfeeds",
   "version": "0.1.0",
   "description": "A minimalist merchant feed server for OCAPI people",
-  "copyright": "Copyright 2021, Antonio Alvarado Hernández",
+  "copyright": "Copyright (c) 2021-2022, Antonio Alvarado Hernández",
   "scripts": {
     "start": "node scripts/start.js",
     "eslint": "npx eslint --ignore-path .gitignore ."
